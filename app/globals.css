@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Have Heart One';
+    src: url('./assets/fonts/have-heart-one.ttf') format('ttf'); /* Replace 'path-to-have-heart-one.ttf' with the actual file path */
+}
+
+@font-face {
+    font-family: 'Have Heart Two';
+    src: url('./assets/fonts/have-heart-two.ttf') format('ttf'); /* Replace 'path-to-have-heart-two.woff' with the actual file path */
+}
